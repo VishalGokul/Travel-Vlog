@@ -24,8 +24,10 @@ div {
   
   #two {
     background-color: #c95bc7;
-    position: relative;
-    top:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
   }
   
   #three {
