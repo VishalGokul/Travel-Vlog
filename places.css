@@ -6,6 +6,20 @@ header{
     position: static;
 }
 
+#nav-links a{
+    color: rgb(183, 230, 235);  
+}
+
+#nav-links a:hover{
+    background-color:  rgb(183, 230, 235); 
+    color: rgb(59, 59, 59); 
+}
+
+
+#page-logo a{
+color: rgb(183, 230, 235);    
+}
+
 main ul{
     width: 1200px;
     margin: 0 auto 48px auto;
@@ -39,6 +53,10 @@ main li img{
     justify-content: space-between;
     padding: 24px;
 
+}
+
+.item-content h2{
+    margin: 0;
 }
 
 .actions{
