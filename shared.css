@@ -58,7 +58,7 @@ header li{
 
 footer{
     background: linear-gradient(70deg, rgb(24,24,24), rgb(25,29,29));
-    padding: 36px 0px;
+    padding: 32px 0px;
 }
 
 footer ul{
@@ -68,8 +68,8 @@ footer ul{
 }
 
 footer li{
-    width: 80px;
-    height: 80px;
+    width: 70px;
+    height: 70px;
     margin: 0px 50px;
 }
 
